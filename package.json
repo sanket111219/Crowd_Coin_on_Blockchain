@@ -1,7 +1,6 @@
 {
-  "name": "kickstart",
+  "name": "ccoin",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -22,5 +21,17 @@
     "semantic-ui-react": "^2.1.3",
     "solc": "^0.4.17",
     "web3": "^1.8.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket111219/Crowd_Coin_on_Blockchain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanket111219/Crowd_Coin_on_Blockchain/issues"
+  },
+  "homepage": "https://github.com/sanket111219/Crowd_Coin_on_Blockchain#readme",
+  "description": ""
 }
